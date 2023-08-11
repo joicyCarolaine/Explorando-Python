@@ -82,18 +82,6 @@ Celare|Pacote Python para esconder tokens de acesso nos seus projetos|[celare](h
 
 <br>
 
-### :computer: Bora programar!
-Com vontade de programar, mas não sabe por onde começar? Essa seção é para você!
-Temos aqui dois modos de você desenvolver e praticar:
-
-1. [**Mini-projetos**](#Mini-projetos)
-[*Ver ideias disponíveis*](./mini-projetos)
-2. [**Desafios**](#Desafios)
-[*Ver desafios*](./desafios)
-3. [**Resoluções**](./resolucoes)
-
-<br>
-
 ## :book: Livros
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
