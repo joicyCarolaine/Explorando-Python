@@ -4,7 +4,7 @@
 <img width="150px" src="https://raw.githubusercontent.com/learnbr/python/master/logo.png"/>
 <p/>
 
-🐍 <cite> Olá e bem-vindo! Este repositório é um tesouro de recursos valiosos, incluindo uma compilação de **links úteis**, **códigos práticos**, **pequenos projetos envolventes** e **inspirações inovadoras**. Aqui, você encontrará tudo o que precisa para embarcar em uma jornada de aprendizado apaixonante da incrível linguagem de programação que é o Python. Sinta-se à vontade para explorar e aproveitar ao máximo essa experiência enriquecedora! <</cite> 🐍
+🐍 <cite> Olá e bem-vindo! Este repositório é um tesouro de recursos valiosos, incluindo uma compilação de **links úteis**, **códigos práticos**, **pequenos projetos envolventes** e **inspirações inovadoras**. Aqui, você encontrará tudo o que precisa para embarcar em uma jornada de aprendizado apaixonante da incrível linguagem de programação que é o Python. Sinta-se à vontade para explorar e aproveitar ao máximo essa experiência enriquecedora! </cite> 🐍
 
 
 ## 👂 Tem um minuto para ouvir a palavra do Python?
